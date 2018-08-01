@@ -1,0 +1,72 @@
+.VmTop {
+    width: 80%;
+    height: 0;
+    margin: 2% auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+    border-right: 100px solid transparent;
+    border-left: 100px solid transparent;
+    border-bottom: 30px solid #595551;
+}
+
+.VmBottom {
+    width: 80%;
+    height: 0;
+    margin: 2% auto;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: white;
+    border-right: 100px solid transparent;
+    border-left: 100px solid transparent;
+    border-top: 30px solid #595551;
+}
+
+.Disk {
+    width: 80%;
+    height: 10%;
+    background: linear-gradient(#7f3608, #702e05);
+    margin: 2% auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    border-radius: 10px;
+    box-shadow: inset -15px 0 rgba(0, 0, 0, 0.2);
+}
+
+.CPU {
+    width: 80%;
+    height: 10%;
+    background: linear-gradient(#6600cc, #9900ff);
+    margin: 2% auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    border-radius: 10px;
+    box-shadow: inset -15px 0 rgba(0, 0, 0, 0.2);
+}
+
+.Ram {
+    width: 80%;
+    height: 10%;
+    background: linear-gradient(#66ccff, #00ccff);
+    margin: 2% auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    border-radius: 10px;
+    box-shadow: inset -15px 0 rgba(0, 0, 0, 0.2);
+}
+
+.OS {
+    width: 80%;
+    height: 10%;
+    background: linear-gradient(#bf3813, #c45e38);
+    margin: 2% auto;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    color: white;
+    border-radius: 10px;
+    box-shadow: inset -15px 0 rgba(0, 0, 0, 0.2);
+}
+
