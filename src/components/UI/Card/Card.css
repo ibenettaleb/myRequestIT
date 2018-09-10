@@ -1,0 +1,7 @@
+.border {
+    border: 3px solid #dee2e6 !important;
+}
+
+.borderSelected {
+    border-color: #00c851 !important;
+}

@@ -23,8 +23,8 @@
 }
 
 .Disk {
-    width: 80%;
-    height: 10%;
+    width: 70%;
+    height: 60px;
     background: linear-gradient(#7f3608, #702e05);
     margin: 2% auto;
     padding-top: 2%;
@@ -35,8 +35,8 @@
 }
 
 .CPU {
-    width: 80%;
-    height: 10%;
+    width: 70%;
+    height: 60px;
     background: linear-gradient(#6600cc, #9900ff);
     margin: 2% auto;
     padding-top: 2%;
@@ -47,8 +47,8 @@
 }
 
 .Ram {
-    width: 80%;
-    height: 10%;
+    width: 70%;
+    height: 60px;
     background: linear-gradient(#66ccff, #00ccff);
     margin: 2% auto;
     padding-top: 2%;
@@ -59,8 +59,8 @@
 }
 
 .OS {
-    width: 80%;
-    height: 10%;
+    width: 70%;
+    height: 60px;
     background: linear-gradient(#bf3813, #c45e38);
     margin: 2% auto;
     padding-top: 2%;
@@ -69,4 +69,3 @@
     border-radius: 10px;
     box-shadow: inset -15px 0 rgba(0, 0, 0, 0.2);
 }
-
